@@ -1,0 +1,25 @@
+body {
+    color: aliceblue;
+  }
+  .btn-primary {
+    
+    background-color: grey;
+    color: white;
+  }
+  .btn-primary:hover {
+    
+    background-color:black;
+    color: white;
+  }
+  .hero-background-img {
+    background-image: url(images/Home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
+
+  
+  
+  
